@@ -1,0 +1,5 @@
+http://py4e-data.dr-chuck.net/json?address=Ain+Shams+University&key=42
+
+result: El-Khalyfa El-Mamoun Street، El-Abaseya, El-Qobba Bridge, Al Waili, Cairo Governorate, Egypt
+
+google's address: El-Khalyfa El-Mamoun Street، El-Abaseya
